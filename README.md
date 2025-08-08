@@ -75,7 +75,7 @@ Coltivare - Our Story
 
   <font size="+1"><b>Learn More About Sustainable Farming</b></font><br>
   Visit the
-  <a href="https://www.usda.gov/topics/sustainable-agriculture" target="_blank">
+  <a href="[https://www.usda.gov/topics/sustainable-agriculture](https://www.usda.gov/)" target="_blank">
     USDA Sustainable Agriculture portal
   </a> (opens in new tab).
 
@@ -84,7 +84,7 @@ Coltivare - Our Story
   <center>
     <font size="-1" face="Courier New">
       Page created by <b>Mayuri</b> —
-      <a href="mailto:mayuri@coltivare.example.com">Contact me</a>
+      <a href="msjain@purdue.edu">Contact me</a>
     </font>
   </center>
 
