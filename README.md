@@ -1,7 +1,3 @@
-Below is a single-file story.html that matches the exact “old-school” style of the sample you showed me (no external CSS, inline/<font> tags only), while also keeping the design elements consistent with your company’s look & feel (the same muted greens, golds, and serif/ sans-serif mix that appears on your other pages).
-
-Copy-and-paste the entire block into GitHub → Create new file → name it story.html → commit.
-
 <!DOCTYPE html>
 <html>
 <head>
