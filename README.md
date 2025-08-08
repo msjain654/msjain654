@@ -1,11 +1,30 @@
 <html>
-<!DOCTYPE html>
 <html lang="en-US">
 
 <body style="background-color: #f0fff0;">
+<h1 style="
 
-  <title>Coltivare - Our Story &amp; History</title>
-  <meta charset="utf-8">
+    text-align: center;
+
+    font-size: 48px;
+
+    font-family: 'Georgia', serif;
+
+    color: #2e8b57;
+
+    text-shadow: 2px 2px 4px #ccc;
+
+    letter-spacing: 2px;
+
+    padding: 20px;
+
+">
+
+Coltivare - Our Story
+
+</h1>
+
+
   <style>
     /* keep the requested colors */
     h3, h4 { color:#3e6e3e; }
