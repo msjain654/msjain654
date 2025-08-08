@@ -55,8 +55,7 @@ Coltivare - Our Story
 
 <hr>
 <center>
-<font size="-1" face="Courier New"><font color="#2e8b57"> Page created by <b>Mayuri</b> — <a href="msjain@purdue.edu"> Contact me </a>
-</font>
+<font size="-1" face="Courier New" color="#2e8b57"> Page created by <b>Mayuri</b> — <a href="msjain@purdue.edu"> Contact me </a> </font>
 </center>
 
 <br>
