@@ -26,7 +26,7 @@ Coltivare - Our Story
 
 <h3>Company Milestones</h3>
 <ol>
-<li><font color="#2e8b57"><b>2011</b> – Founded by agronomist Maya Patel and tech visionary Luis Ortega.</font></li>
+<li><font color="#2e8b57"><b>2011</b> – Founded by agronomist and tech visionary Luis Ortega.</font></li>
 <li><font color="#2e8b57"><b>2014</b> – Released <i>HarvestSync&trade;</i>, our first IoT soil-monitoring device.</font></li>
 <li><font color="#2e8b57"><b>2018</b> – Expanded operations to 12 Midwest states.</font></li>
 <li><font color="#2e8b57"><b>2022</b> – Surpassed $50 M in annual revenue while maintaining carbon-negative status.</font></li>
@@ -35,12 +35,12 @@ Coltivare - Our Story
 
 <br>
 
-<h4>Core Values</h4>
+<h3>Core Values</h3>
 <ul>
-<li><font color="#2e8b57">Sustainability first</li>
-<li><font color="#2e8b57">Data-driven decisions</li>
-<li><font color="#2e8b57">Farmer-centric design</li>
-<li><font color="#2e8b57">Community investment</li>
+<li><font color="#2e8b57"> Sustainability first </font></li>
+<li><font color="#2e8b57"> Data-driven decisions </font></li>
+<li><font color="#2e8b57"> Farmer-centric design </font></li>
+<li><font color="#2e8b57"> Community investment </font></li>
 </ul>
 
 <br>
