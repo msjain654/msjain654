@@ -63,5 +63,8 @@ Coltivare - Our Story
 <p style="text-align: center; font-size: 12px; color: gray;"> Last modified: <span id="lastModified"> </span>
 </p>
 
-<script> document.getElementById("lastModified").textContent = document.lastModified;
-</script>
+<script> document.getElementById("lastModified").textContent = document.lastModified; </script>
+
+</body>
+
+</html>
