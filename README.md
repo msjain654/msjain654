@@ -69,7 +69,7 @@ Coltivare - Our Story
   <br>
 
   <font size="+1"><b>Downloadable Resource</b></font><br>
-  <a href="Coltivare_Company_Brochure.pdf" download>Company Brochure (PDF, 1.2 MB)</a>
+  <a href="Coltivare Company Brochure (1)" download>Company Brochure (PDF, 1.2 MB)</a>
 
   <br><br>
 
