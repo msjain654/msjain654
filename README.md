@@ -1,11 +1,26 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Coltivare - Our Story &amp; History</title>
   <meta charset="utf-8">
 </head>
 
-<body bgcolor="#f7f9f4" text="#2e8b57" link="#b8860b" vlink="#b8860b">
+<h1 style="
+
+    text-align: center;
+
+    font-size: 48px;
+
+    font-family: 'Georgia', serif;
+
+    color: #2e8b57;
+
+    text-shadow: 2px 2px 4px #ccc;
+
+    letter-spacing: 2px;
+
+    padding: 20px;
+
+">
 
   <center>
     <font size="+3" color="#b8860b" face="Georgia,serif"><b><i>Coltivare Farming Solutions</i></b></font><br><br>
