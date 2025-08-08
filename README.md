@@ -19,8 +19,7 @@ Coltivare - Our Story
 <br><br>
 
 <center>
-<img src="[https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=600&q=60"
-         alt="Sun-drenched corn field](https://media.istockphoto.com/id/1219353504/photo/sunrise-over-a-corn-field-background.jpg?s=612x612&w=0&k=20&c=xsQyoyJLzJqMjpPauy_9z_SfWbxZLu_To1a8HrzBHuU=)](https://media.istockphoto.com/id/1131605187/photo/rural-landscape.jpg?s=1024x1024&w=is&k=20&c=9fWLbR5qKYNsrb3J94qxivwMz7Dr0roE5TSaGcuIUp8=)" width="400">
+<img src="istockphoto-1219353504-612x612.jpg" height="300" width="400">
 </center>
 
 <br>
@@ -47,7 +46,7 @@ Coltivare - Our Story
 <br>
 
 <font size="+1"><b>Downloadable Resource</b></font><br>
-<a href="Coltivare Company Brochure (1)" download> Company Brochure </a>
+<a href="Coltivare Company Brochure (1).pdf" download> Company Brochure </a>
 
 <br><br>
 
