@@ -42,7 +42,7 @@ Coltivare - Our Story
 
   <center>
     <img src="[https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=600&q=60"
-         alt="Sun-drenched corn field](https://media.istockphoto.com/id/1219353504/photo/sunrise-over-a-corn-field-background.jpg?s=612x612&w=0&k=20&c=xsQyoyJLzJqMjpPauy_9z_SfWbxZLu_To1a8HrzBHuU=)" width="400">
+         alt="Sun-drenched corn field](https://media.istockphoto.com/id/1219353504/photo/sunrise-over-a-corn-field-background.jpg?s=612x612&w=0&k=20&c=xsQyoyJLzJqMjpPauy_9z_SfWbxZLu_To1a8HrzBHuU=)](https://media.istockphoto.com/id/1131605187/photo/rural-landscape.jpg?s=1024x1024&w=is&k=20&c=9fWLbR5qKYNsrb3J94qxivwMz7Dr0roE5TSaGcuIUp8=)" width="400">
   </center>
 
   <br>
