@@ -65,6 +65,3 @@ Coltivare - Our Story
 
 <script> document.getElementById("lastModified").textContent = document.lastModified;
 </script>
-
-</body>
-</html>
