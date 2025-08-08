@@ -37,24 +37,24 @@ Coltivare - Our Story
 
 <h4>Core Values</h4>
 <ul>
-<li>Sustainability first</li>
-<li>Data-driven decisions</li>
-<li>Farmer-centric design</li>
-<li>Community investment</li>
+<li><font color="#2e8b57">Sustainability first</li>
+<li><font color="#2e8b57">Data-driven decisions</li>
+<li><font color="#2e8b57">Farmer-centric design</li>
+<li><font color="#2e8b57">Community investment</li>
 </ul>
 
 <br>
 
-<font size="+1"><b>Downloadable Resource</b></font><br>
+<font size="+1"><font color="#2e8b57"><b>More information!</b></font><br>
 <a href="Coltivare Company Brochure (1).pdf" download> Company Brochure </a>
 
 <br><br>
 
-<font size="+1"><b>Learn More About Sustainable Farming</b></font><br> Visit the <a href="[https://www.usda.gov/topics/sustainable-agriculture](https://www.usda.gov/)" target="_blank"> USDA Sustainable Agriculture portal </a>.
+<font size="+1"><font color="#2e8b57"><b>Learn More About Sustainable Farming</b></font><br> Visit the <a href="[https://www.usda.gov/topics/sustainable-agriculture](https://www.usda.gov/)" target="_blank"> USDA Sustainable Agriculture portal </a>.
 
 <hr>
 <center>
-<font size="-1" face="Courier New"> Page created by <b>Mayuri</b> — <a href="msjain@purdue.edu">Contact me</a>
+<font size="-1" face="Courier New"><font color="#2e8b57"> Page created by <b>Mayuri</b> — <a href="msjain@purdue.edu">Contact me</a>
 </font>
 </center>
 
