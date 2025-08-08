@@ -1,26 +1,15 @@
 <html>
-<head>
+<!DOCTYPE html>
+<html lang="en-US">
+
+<body style="background-color: #f0fff0;">
+
   <title>Coltivare - Our Story &amp; History</title>
   <meta charset="utf-8">
-</head>
-
-<h1 style="
-
-    text-align: center;
-
-    font-size: 48px;
-
-    font-family: 'Georgia', serif;
-
-    color: #2e8b57;
-
-    text-shadow: 2px 2px 4px #ccc;
-
-    letter-spacing: 2px;
-
-    padding: 20px;
-
-">
+  <style>
+    /* keep the requested colors */
+    h3, h4 { color:#3e6e3e; }
+  </style>
 
   <center>
     <font size="+3" color="#b8860b" face="Georgia,serif"><b><i>Coltivare Farming Solutions</i></b></font><br><br>
@@ -39,7 +28,7 @@
 
   <br>
 
-  <font size="+2" color="#b8860b" face="Georgia,serif"><b>Company Milestones</b></font>
+  <h3>Company Milestones</h3>
   <ol>
     <li><font color="#2e8b57"><b>2011</b> – Founded by agronomist Maya Patel and tech visionary Luis Ortega.</font></li>
     <li><font color="#2e8b57"><b>2014</b> – Released <i>HarvestSync&trade;</i>, our first IoT soil-monitoring device.</font></li>
@@ -50,7 +39,7 @@
 
   <br>
 
-  <font size="+2" color="#b8860b" face="Georgia,serif"><b>Core Values</b></font>
+  <h4>Core Values</h4>
   <ul>
     <li>Sustainability first</li>
     <li>Data-driven decisions</li>
@@ -82,25 +71,14 @@
 
   <br>
 
-  <center>
-    <font size="-1" face="Courier New">
-      Last modified: <script>document.write(document.lastModified);</script>
-    </font>
-  </center>
+<!-- Modifited Time -->
+<p style="text-align: center; font-size: 12px; color: gray;">
+  Last modified: <span id="lastModified"></span>
+</p>
+
+<script>
+  document.getElementById("lastModified").textContent = document.lastModified;
+</script>
 
 </body>
 </html>
-<!--
-**msjain654/msjain654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
