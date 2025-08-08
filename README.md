@@ -41,8 +41,8 @@ Coltivare - Our Story
   <br><br>
 
   <center>
-    <img src="https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=600&q=60"
-         alt="Sun-drenched corn field" width="400">
+    <img src="[https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=600&q=60"
+         alt="Sun-drenched corn field](https://media.istockphoto.com/id/1219353504/photo/sunrise-over-a-corn-field-background.jpg?s=612x612&w=0&k=20&c=xsQyoyJLzJqMjpPauy_9z_SfWbxZLu_To1a8HrzBHuU=)" width="400">
   </center>
 
   <br>
@@ -77,7 +77,7 @@ Coltivare - Our Story
   Visit the
   <a href="[https://www.usda.gov/topics/sustainable-agriculture](https://www.usda.gov/)" target="_blank">
     USDA Sustainable Agriculture portal
-  </a> (opens in new tab).
+  </a>.
 
   <hr>
 
